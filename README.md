@@ -1,4 +1,4 @@
-# unity_first_project
+# MY_FIRST_UNITY_PROJECT
 # 🎮 College Ex-cape – 3D Unity Exploration Game
 
 ![Unity](https://img.shields.io/badge/Engine-Unity-black?logo=unity)
